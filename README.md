@@ -1,4 +1,4 @@
-![DSC Phase One Project]
+
 
 # DSC Phase One Project
 
@@ -10,7 +10,7 @@ This project aims to analyze various aspects of the movie industry, including bu
 
 ## Business Problem
 
-![Business Problem](./images/business_problem.png)
+
 
 Understanding the key factors that drive movie success can help producers and marketers allocate resources more effectively. This project identifies these factors through data analysis and provides recommendations for optimizing production budgets, targeting the right audiences, and improving overall financial outcomes.
 
