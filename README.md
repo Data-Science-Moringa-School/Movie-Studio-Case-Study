@@ -1,4 +1,4 @@
-![DSC Phase One Project](./images/project_banner.jpg)
+![DSC Phase One Project]
 
 # DSC Phase One Project
 
