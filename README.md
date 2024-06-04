@@ -2,7 +2,7 @@
 
 # DSC Phase One Project
 
-**Author**: [Your Name](mailto:your.email@example.com)
+**Author**: [Maureen Wanjeri](mailto:your.email@example.com)
 
 ## Overview
 
