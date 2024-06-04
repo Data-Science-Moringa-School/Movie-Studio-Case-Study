@@ -1,0 +1,2 @@
+phase_one_project/data/im.db filter=lfs diff=lfs merge=lfs -text
+*.psd filter=lfs diff=lfs merge=lfs -text
