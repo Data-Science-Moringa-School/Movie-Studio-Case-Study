@@ -63,7 +63,7 @@ Identifying the top 10 movie genres helps understand audience preferences and ma
 
 A scatter plot of production budgets versus worldwide gross revenue illustrates the relationship between investment and financial return.
 
-![Scatter Plot of Production Budget vs Worldwide Gross](scatter_plot_budget_vs_gross.png)
+![Scatter Plot of Production Budget vs Worldwide Gross](./images/scatter_plot_budget_vs_gross.png)
 
 ## Conclusions
 
