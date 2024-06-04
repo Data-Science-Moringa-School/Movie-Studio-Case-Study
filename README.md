@@ -39,25 +39,25 @@ Analyzing the average production budget over time reveals significant trends in 
 
 The distribution of IMDB ratings helps understand the overall quality and reception of movies.
 
-![Distribution of IMDB Ratings](distribution_of_imdb_ratings.png)
+![Distribution of IMDB Ratings](./images/distribution_of_imdb_ratings.png)
 
 ### Box Plot of Domestic vs Foreign Gross Revenue
 
 A comparison between domestic and foreign gross revenue shows differences in movie performance across regions.
 
-![Box Plot of Domestic vs Foreign Gross Revenue](box_plot_domestic_foreign_gross.png)
+![Box Plot of Domestic vs Foreign Gross Revenue](./images/box_plot_domestic_foreign_gross.png)
 
 ### Bar Plot of Average Rating by Genre
 
 Examining the average ratings by genre provides insights into which genres are most appreciated by audiences.
 
-![Bar Plot of Average Rating by Genre](bar_plot_average_rating_by_genre.png)
+![Bar Plot of Average Rating by Genre](./images/bar_plot_average_rating_by_genre.png)
 
 ### Bar Plot of Top 10 Movie Genres
 
 Identifying the top 10 movie genres helps understand audience preferences and market trends.
 
-![Bar Plot of Top 10 Movie Genres](bar_plot_top_10_movie_genres.png)
+![Bar Plot of Top 10 Movie Genres](./images/bar_plot_top_10_movie_genres.png)
 
 ### Scatter Plot of Production Budget vs Worldwide Gross
 
