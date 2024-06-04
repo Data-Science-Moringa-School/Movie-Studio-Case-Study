@@ -33,7 +33,7 @@ The analysis includes data cleaning, merging, and visualization using Python lib
 
 Analyzing the average production budget over time reveals significant trends in movie financing.
 
-![Average Movie Budget Over Time](average_movie_budget_over_time.png)
+![Average Movie Budget Over Time](./images/average_movie_budget_over_time.png)
 
 ### Distribution of IMDB Ratings
 
